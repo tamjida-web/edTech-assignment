@@ -1,0 +1,26 @@
+.color-text-primary{
+    color: #289BDE;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-caption h5{
+    font-size: 65px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.htwo-tag{
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 100px;
+   
+    
+
+}
+.fonts-font{
+    font-weight: 400;
+}
